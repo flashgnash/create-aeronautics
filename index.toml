@@ -34,11 +34,6 @@ hash = "c5068a622c7a38deaf9351e82404d72df4ea2cef81b0d3e9e960113df2cfa493"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "b3fc09129e58dc099eb8bca5e36d115db04b6f2135de93f33a511eac48c11926"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "64b3518d2d05d07139d18c378366b3adc282d04b10cd2070345551dbc7207a6b"
 metafile = true
