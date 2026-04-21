@@ -3,11 +3,11 @@ filename = "createmechanicalcompanion-1.8-hotfix-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7cbb6fa57227a4c3d006ef67856e7b085182501b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/nJ9B5oz1/versions/AsZ8Ykk7/createmechanicalcompanion-1.8-hotfix-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "f9a2129b7e0bc546e264859a2a74ebbcdabdec0d47115717317851d4666c4d04e3adc4a4240a752d5e8d5af680e36dc47a2e06b9f9f921c4ef52200d6d9538da"
 
 [update]
-[update.curseforge]
-file-id = 7488697
-project-id = 1264989
+[update.modrinth]
+mod-id = "nJ9B5oz1"
+version = "AsZ8Ykk7"

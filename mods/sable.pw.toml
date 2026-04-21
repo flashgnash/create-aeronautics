@@ -3,11 +3,11 @@ filename = "sable-neoforge-1.21.1-1.0.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "33c304774142816cb8f0140f34650d347adbcd6b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/T9PomCSv/versions/ZYLSN31S/sable-neoforge-1.21.1-1.0.6.jar"
+hash-format = "sha512"
+hash = "5b732e8b808b9e97ddc61375e849a86298b9ba5b1c81c576faf9b96667cd27e83fcc2e881af69fded28d1038b8c0f4ddb13ad6b3c1a34a2f1d688061ee6c5d19"
 
 [update]
-[update.curseforge]
-file-id = 7948753
-project-id = 1312371
+[update.modrinth]
+mod-id = "T9PomCSv"
+version = "ZYLSN31S"

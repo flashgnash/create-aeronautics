@@ -1,13 +1,13 @@
-name = "DeepNull Reforged (Dank Null) [NeoForge/Fabric]"
+name = "DeepNull Reforged (DankNull) [NeoForge/Fabric]"
 filename = "deepnull-reforged-4.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "91fd6c89664298e5a13fe57dccd812cde9597a57"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/yYjkmjge/versions/Z3HQkLP5/deepnull-reforged-4.1.3.jar"
+hash-format = "sha512"
+hash = "712e3a3c3d2b52b00268121bfc9d3eacb790882a9b0d598ddb5557845d69550a7d3f75b2bf0fe9e5b9e61b8539c0ad8950acb9c830516a5d8cb98996364b956d"
 
 [update]
-[update.curseforge]
-file-id = 7848849
-project-id = 1483277
+[update.modrinth]
+mod-id = "yYjkmjge"
+version = "Z3HQkLP5"
