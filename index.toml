@@ -30,8 +30,18 @@ hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "868e1127366fd416cc1d98785dc163930bf1c1e53a06b692ee2258ff80db28ce"
+metafile = true
+
+[[files]]
+file = "mods/aesthetic-storage.pw.toml"
+hash = "ad370165e981a4216342287681a7433d5265f4804c6e3bdea5fd4425378cbc3f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -41,6 +51,21 @@ hash = "868960025d7da92d08ba382cddef18a2b2b238de5d635048cef29f9af0e58c8f"
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "f773c1a9d14caa184e006fdd8896134123a3092f923780125041029744844678"
+metafile = true
+
+[[files]]
+file = "mods/capsule.pw.toml"
+hash = "37b584963d9dee9202ab94db892ad6e2213d37561db483a8b2559585fb944677"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "87cef7e82da6ef089a8807c73e8fbfd90ec33dbd5b73845da3f3258012a1d1ff"
+metafile = true
+
+[[files]]
+file = "mods/construction-wands-revived.pw.toml"
+hash = "47441a830eb4d9f1527289cc7c2cfb5f1096b9096a4aaa58316a360995cbcc6c"
 metafile = true
 
 [[files]]
@@ -129,6 +154,11 @@ hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "eae581f5bad381846ee73f31f511b91188da20579f2d42f90d828cf8c43bd248"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -161,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "36732fd7fdad0831fdaef0c806def4ebcab5084bfd851bcff5e948923cd1b1d7"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
 metafile = true
 
 [[files]]
@@ -199,6 +234,11 @@ hash = "9aed20c67bf8890e5c67607d79270c71af98a8722f29118594bb768e9578b7c0"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -234,8 +274,18 @@ hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib-1.21-9.0.20.jar"
 hash = "38607fc0128ebfb64848370cfb30c405528963b28d85293c3821daca3810b8a1"
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
@@ -250,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughwands-1.21-7.0.3.jar"
 hash = "f07308408781b9ef6a22ae2c42900877fd9e3aad3305f857bace5caf4f6307af"
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "acafcc8edd4ee740a6ae420dcd4bf988dc316323b9981f9c6b0095294fa407f6"
+metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
@@ -269,6 +324,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9f2fff72148af2a06394db56a347632c7089843f8684c51d5eb95a54ca9ef3d6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "530225cd8c5dcf52a1a19ce603f58e902a21a849a413c5958a778be731024ec8"
+metafile = true
+
+[[files]]
+file = "mods/storage-terminal.pw.toml"
+hash = "eedb50a4970be4f2cbab3636c307da82b4ae43e446ba66961e833c08fecec116"
 metafile = true
 
 [[files]]

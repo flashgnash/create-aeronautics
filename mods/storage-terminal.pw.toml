@@ -1,0 +1,13 @@
+name = "Storage Terminal"
+filename = "storagemanager-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "717a3aa1fa03e276855108c7def182e837affe9b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7511178
+project-id = 1441623

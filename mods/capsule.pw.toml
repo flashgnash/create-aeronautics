@@ -1,0 +1,13 @@
+name = "Capsule"
+filename = "Capsule-1.21.1-9.0.117.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pt0JOpyz/versions/kQceFh4w/Capsule-1.21.1-9.0.117.jar"
+hash-format = "sha512"
+hash = "f768a1fbc226aa2344a933fa37edce70c3fca35e8825ecc4b2c2b016fefe74aea42147b0eb8cd8bacb5be837d701d432d28650e622b6835f6b6742aa20519707"
+
+[update]
+[update.modrinth]
+mod-id = "Pt0JOpyz"
+version = "kQceFh4w"
