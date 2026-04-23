@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-terminal.pw.toml"
-hash = "eedb50a4970be4f2cbab3636c307da82b4ae43e446ba66961e833c08fecec116"
+hash = "9a76be58f2368c6dee68a30563ca37ded3e32ed993e0feaccb9418802ea628f6"
 metafile = true
 
 [[files]]
