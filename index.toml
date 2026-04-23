@@ -64,6 +64,11 @@ hash = "87cef7e82da6ef089a8807c73e8fbfd90ec33dbd5b73845da3f3258012a1d1ff"
 metafile = true
 
 [[files]]
+file = "mods/chloride.pw.toml"
+hash = "0fef266808940494562e5409ee367db71095f96ba3f56ab8b352aea2238f231b"
+metafile = true
+
+[[files]]
 file = "mods/construction-wands-revived.pw.toml"
 hash = "47441a830eb4d9f1527289cc7c2cfb5f1096b9096a4aaa58316a360995cbcc6c"
 metafile = true
