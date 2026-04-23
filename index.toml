@@ -301,11 +301,6 @@ file = "mods/notenoughwands-1.21-7.0.3.jar"
 hash = "f07308408781b9ef6a22ae2c42900877fd9e3aad3305f857bace5caf4f6307af"
 
 [[files]]
-file = "mods/paladins-furniture.pw.toml"
-hash = "acafcc8edd4ee740a6ae420dcd4bf988dc316323b9981f9c6b0095294fa407f6"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
