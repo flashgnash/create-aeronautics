@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".claude/settings.local.json"
+hash = "826707b99bc409c04ca87d75fec1e70dcea50fb54724c52cdb8b33c5974db4f9"
+
+[[files]]
 file = ".envrc"
 hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
 
@@ -61,11 +65,6 @@ metafile = true
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
 hash = "87cef7e82da6ef089a8807c73e8fbfd90ec33dbd5b73845da3f3258012a1d1ff"
-metafile = true
-
-[[files]]
-file = "mods/chloride.pw.toml"
-hash = "0fef266808940494562e5409ee367db71095f96ba3f56ab8b352aea2238f231b"
 metafile = true
 
 [[files]]
@@ -196,11 +195,6 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "36732fd7fdad0831fdaef0c806def4ebcab5084bfd851bcff5e948923cd1b1d7"
-metafile = true
-
-[[files]]
-file = "mods/embeddium.pw.toml"
-hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
 metafile = true
 
 [[files]]
