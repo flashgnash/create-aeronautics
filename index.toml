@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".claude/settings.local.json"
-hash = "826707b99bc409c04ca87d75fec1e70dcea50fb54724c52cdb8b33c5974db4f9"
-
-[[files]]
 file = ".envrc"
 hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
 
